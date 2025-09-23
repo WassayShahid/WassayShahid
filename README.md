@@ -6,4 +6,4 @@ I am currently seeking internships or co-op opportunities to gain valuable indus
 
 In addition to my technical abilities, I highly value collaboration and community engagement. I’m always eager to connect with others in the tech space, whether for project collaborations or discussions about the latest in technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wassay-shahid/).
 
-I am committed to continuous learning and always welcome feedback on my work. Please feel free to explore my projects on GitHub—your insights are always appreciated.
+I am committed to continuous learning and always welcome feedback on my work. Please feel free to explore my projects on GitHub-your insights are always appreciated.
